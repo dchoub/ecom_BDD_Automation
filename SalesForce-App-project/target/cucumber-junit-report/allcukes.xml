@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" tests="2">
+<testcase classname="Registration in automation practice application" name="Registration in automation practice application_1" time="14.602909">
+<skipped><![CDATA[Given I go to "loginURL" on "Chrome"....................................................passed
+And user click on "signin".........................................................undefined
+]]></skipped>
+</testcase>
+<testcase classname="Logging to automation practice application" name="Logging to automation practice application_1" time="2.274537">
+<skipped><![CDATA[Given I go to "loginURL" on "Chrome"....................................................passed
+And user click on "signin".........................................................undefined
+And I enter "loginusername" as "xxxxx"...................................................undefined
+And I enter "loginpassword" as "zxxxx"...................................................undefined
+And I click on "loginButton"........................................................undefined
+]]></skipped>
+</testcase>
+</testsuite>
