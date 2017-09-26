@@ -21,7 +21,7 @@ public class LoginTest {
 		for(int i=0;i<fields.size();i++){
 			selenium.log("user is entering in " +fields.get(i));
 			selenium.type(fields.get(i), fields.get(i));
-			//test 
+			//test 1
 		}
 		
 			
